@@ -194,3 +194,7 @@ a {
     border-radius: 10px;
     font-size: 12px;
 }
+
+a:hover {
+    text-decoration: none;
+}
