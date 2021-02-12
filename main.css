@@ -183,3 +183,8 @@ h1 {
     left: 21%;
     top: 37px;
 }
+
+a {
+    color: white!important;
+    text-decoration: none;
+}
