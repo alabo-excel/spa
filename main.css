@@ -1,0 +1,185 @@
+body {
+    background-color: #F2F2F2!important;
+    padding-left: 220px;
+}
+
+.sidebar {
+    background-color: #4649DD;
+    height: 100vh;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    position: fixed!important;
+    z-index: 10;
+    left: 0px;
+}
+
+.row {
+    margin-left: 0px!important;
+    margin-right: 0px!important;
+}
+
+#log-out {
+    margin-top: 50%!important;
+}
+
+.greeting {
+    color: rgb(192, 186, 186);
+    font-size: 10px;
+}
+
+#search {
+    width: 74%!important;
+    border: none;
+    border-radius: 10px;
+}
+
+#user {
+    width: 50px;
+}
+
+.card {
+    border: none!important;
+    border-radius: 10px!important;
+}
+
+#chart {
+    width: 60px;
+    height: 50px;
+}
+
+h1 {
+    font-size: 25px!important;
+}
+
+.suspended {
+    background-color: #FFEDEF;
+    color: red;
+    border: none;
+    border-radius: 10px;
+    height: 25px;
+    font-size: 9px;
+    width: 70px;
+}
+
+.pending {
+    background-color: #E1E1EF;
+    color: #363565;
+    border: none;
+    border-radius: 10px;
+    height: 25px;
+    font-size: 9px;
+    width: 70px;
+}
+
+.approved {
+    background-color: #E2F4EC;
+    color: #4A9D77;
+    border: none;
+    border-radius: 10px;
+    height: 25px;
+    font-size: 9px;
+    width: 70px;
+}
+
+#latest-user {
+    width: 80%;
+}
+
+.name {
+    font-size: 12px;
+    width: 90px;
+    font-weight: 400;
+}
+
+.under {
+    margin-top: -20px;
+}
+
+.arrowUp {
+    border-radius: 100%;
+    background-color: #E2F4EC;
+    width: 20px;
+    height: 20px;
+}
+
+.arrowUp img {
+    margin-top: -15px;
+}
+
+.mixed-bg {
+    background-color: #F8F8FB;
+}
+
+.arrowDown {
+    border-radius: 100%;
+    background-color: #FFEDEF;
+    width: 20px;
+    height: 20px;
+}
+
+.arrowDown img {
+    margin-top: -15px;
+}
+
+.small {
+    margin-bottom: 0px;
+    font-size: 10px!important;
+}
+
+.view img {
+    width: 140px;
+}
+
+.feed {
+    width: 70%;
+}
+
+.gallary {
+    width: 60%;
+}
+
+.lens img {
+    width: 20%!important;
+    position: absolute;
+    left: 80%;
+    top: 0px;
+    z-index: 10;
+}
+
+.feed-name {
+    margin-bottom: 0px;
+}
+
+.comments {
+    width: 100px;
+}
+
+.btn {
+    background-color: #4649DD!important;
+}
+
+.in {
+    width: 75%;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+.out {
+    width: 20%;
+    margin-left: 10px;
+    border: none;
+    background-color: #4649DD;
+    color: white;
+    border-radius: 5px;
+}
+
+.modal {
+    background: rgba(70, 73, 221, 0.78);
+    backdrop-filter: blur(1px);
+}
+
+.search-icon {
+    position: absolute;
+    left: 21%;
+    top: 37px;
+}
