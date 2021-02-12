@@ -188,3 +188,9 @@ a {
     color: white!important;
     text-decoration: none;
 }
+
+.btn1 {
+    background-color: #4649DD!important;
+    border-radius: 10px;
+    font-size: 12px;
+}
