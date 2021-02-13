@@ -28,7 +28,7 @@ body {
 }
 
 #search {
-    width: 74%!important;
+    width: 80%!important;
     border: none;
     border-radius: 10px;
 }
@@ -197,4 +197,16 @@ a {
 
 a:hover {
     text-decoration: none;
+}
+.card-wrap{
+    width: 850px;
+    margin: 20px;
+}
+
+.user-activty-rap{
+    width: 250px;
+}
+.after-user-activity{
+    width: 115%;
+    margin-bottom: 20px;
 }
