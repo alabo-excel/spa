@@ -289,3 +289,25 @@ h6 {
     top: 71%;
     left: 3vw;
 }
+
+.activity-text1 {
+    font-size: 8px;
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+
+.activity-text2 {
+    font-size: 8px;
+    margin-bottom: 0px;
+}
+
+.janet-name {
+    margin-bottom: 0px;
+    color: #4A9D77;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.activity {
+    margin-top: -140px!important;
+}
