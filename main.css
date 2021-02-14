@@ -207,3 +207,85 @@ a:hover {
 .monthly {
     border-radius: 30px;
 }
+
+.user-img {
+    width: 80px;
+    Height: 80px;
+}
+
+.rounded-icon {
+    background-color: #F4EBFF;
+    border-radius: 18px!important;
+}
+
+.num {
+    font-size: 12px;
+}
+
+.user-profile {
+    width: 100%!important;
+    border-radius: 10px;
+}
+
+.active-btn {
+    background-color: #FFF2F1;
+    border: none;
+    color: #FE7977;
+    font-size: 12px;
+    border-radius: 10px;
+}
+
+.suspend-btn {
+    border-radius: 10px;
+    background-color: white;
+    border: 1px solid #4649DD;
+    color: #4649DD;
+}
+
+h6 {
+    font-size: 14px!important;
+}
+
+.general {
+    position: absolute;
+    top: 90px;
+    background-color: white;
+}
+
+.user-data {
+    background-color: #FBFBFB;
+    border: 1px solid #C2C2C2;
+    border-radius: 7px;
+}
+
+.names {
+    margin-bottom: 8px!important;
+}
+
+.contact {
+    position: absolute;
+    top: 300px;
+    background-color: white;
+}
+
+.user-info {
+    height: 50vh;
+}
+
+.social3 {
+    position: absolute;
+    top: 71%;
+    left: 39vw;
+}
+
+.social2 {
+    position: absolute;
+    top: 71%;
+    left: 21vw;
+}
+
+.social1 {
+    position: absolute;
+    top: 71%;
+    left: 3vw;
+}
