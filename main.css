@@ -256,6 +256,7 @@ h6 {
     background-color: #FBFBFB;
     border: 1px solid #C2C2C2;
     border-radius: 7px;
+    font-size: 12px;
 }
 
 .names {
@@ -274,19 +275,19 @@ h6 {
 
 .social3 {
     position: absolute;
-    top: 71%;
-    left: 39vw;
+    top: 71.5%;
+    left: 37vw;
 }
 
 .social2 {
     position: absolute;
-    top: 71%;
-    left: 21vw;
+    top: 71.5%;
+    left: 20vw;
 }
 
 .social1 {
     position: absolute;
-    top: 71%;
+    top: 71.5%;
     left: 3vw;
 }
 
@@ -309,5 +310,12 @@ h6 {
 }
 
 .activity {
-    margin-top: -140px!important;
+    margin-top: -130px!important;
+}
+
+.delete {
+    font-size: 12px;
+    background-color: #FFEDEF;
+    color: red;
+    border-radius: 10px;
 }
